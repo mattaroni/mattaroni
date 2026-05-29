@@ -15,6 +15,6 @@ computational linguistics!
 
 - **Languages:** Python, Rust, JavaScript/TypeScript, HTML, CSS/Sass, SQL
 - **Web Frameworks:** Astro, Vue.js
-- **Tools:** Git, Node.js, NPM/PNPM, SQLite, Vite, Vitest
+- **Tools:** Git, Node.js, npm/pnpm, SQLite, Vite, Vitest
 - **Applications:** Excel, Obsidian, VSCode/VSCodium
 - **Miscellaneous:** Bash, Linux, Regex
